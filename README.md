@@ -18,7 +18,7 @@ I'm a graduate student in **Operations Research and Statistics** at Stony Brook 
 
 As part of my graduate degree,I have worked on projects involving **Convex Optimization,Unsupervised Learning,Deep Learning,Portfolio Simulation,Natural Language Processing and Bayesian Optimization for Risk Measures.**
 
-I'm fascinated by **cryptocurrencies**. I genuinely believe that cryptocurrency enabled trustless storage and compute will fundamentally change the way how business is conducted on the internet. Motivated by the wild volatility in it's price movement, I have also **built a technical analysis based cryptocurrency trading system using Python**.
+I'm fascinated by **cryptocurrencies**. Cryptocurrency enabled trustless storage and compute will fundamentally change the way how business is conducted on the internet. Motivated by the wild volatility in it's price movement, I have also **built a technical analysis based cryptocurrency trading system using Python**.
 
 I am interested in working on problems where **Data Science and Machine Learning** are core to the business and essential to the bottomline revenue of the company.
 
