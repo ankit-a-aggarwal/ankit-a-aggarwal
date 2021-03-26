@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋
 I'm a graduate student in **Operations Research and Statistics** at Stony Brook University,New York. My interests lie in **Sequential Decision Making, Deep Generative modelling and Bayesian Statistics.**
 
 As part of my graduate degree,I have worked on projects involving **Convex Optimization,Unsupervised Learning,Deep Learning,Portfolio Simulation,Natural Language Processing and Bayesian Optimization for Risk Measures.**
